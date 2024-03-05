@@ -1,0 +1,130 @@
+2024-03-03 18:58:09.4099 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-03 18:58:09.6377 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-03 18:58:09.7246 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-03 18:58:09.7580 Info Configuration initialized.
+2024-03-03 18:58:10.9500 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-03 20:58:27.4099 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-03 20:58:27.5106 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-03 20:58:27.5649 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-03 20:58:27.5767 Info Configuration initialized.
+2024-03-03 20:58:30.1942 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-03 22:01:52.0689 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-03 22:01:52.1143 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-03 22:01:52.1398 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-03 22:01:52.1398 Info Configuration initialized.
+2024-03-03 22:01:52.8228 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-03 22:05:43.6016 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-03 22:05:43.6523 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-03 22:05:43.6986 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-03 22:05:43.7280 Info Configuration initialized.
+2024-03-03 22:05:44.6103 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-03 22:09:18.3766 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-03 22:09:18.4114 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-03 22:09:18.4437 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-03 22:09:18.4594 Info Configuration initialized.
+2024-03-03 22:09:19.2207 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-03 23:03:03.6244 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-03 23:03:03.6645 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-03 23:03:03.6980 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-03 23:03:03.7171 Info Configuration initialized.
+2024-03-03 23:03:04.5153 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 10:32:01.1725 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 10:32:01.2891 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 10:32:01.3651 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 10:32:01.3894 Info Configuration initialized.
+2024-03-04 10:32:06.9706 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 12:53:45.6076 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 12:53:45.6649 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 12:53:45.6989 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 12:53:45.7264 Info Configuration initialized.
+2024-03-04 12:53:46.6850 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:04:13.8862 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 13:04:14.0479 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 13:04:14.1291 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:04:14.1898 Info Configuration initialized.
+2024-03-04 13:04:15.4656 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:05:56.7246 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 13:05:56.8032 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 13:05:56.8536 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:05:56.8790 Info Configuration initialized.
+2024-03-04 13:05:58.1828 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:14:03.4015 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 13:14:03.4670 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 13:14:03.5174 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:14:03.5524 Info Configuration initialized.
+2024-03-04 13:14:04.7533 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:14:53.3110 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 13:14:53.3835 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 13:14:53.4270 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:14:53.4555 Info Configuration initialized.
+2024-03-04 13:14:54.7428 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:17:50.6793 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 13:17:50.7488 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 13:17:50.8052 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:17:50.8367 Info Configuration initialized.
+2024-03-04 13:17:51.9891 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:24:25.7796 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 13:24:25.9593 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 13:24:26.1637 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 13:24:26.2655 Info Configuration initialized.
+2024-03-04 13:24:27.6868 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 14:44:53.8348 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 14:44:53.9475 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 14:44:54.0120 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 14:44:54.0120 Info Configuration initialized.
+2024-03-04 14:44:56.5814 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 15:30:47.6637 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 15:30:47.7313 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 15:30:47.7681 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 15:30:47.7944 Info Configuration initialized.
+2024-03-04 15:30:48.7046 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 16:40:34.7642 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 16:40:34.8272 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 16:40:34.8635 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 16:40:34.8831 Info Configuration initialized.
+2024-03-04 16:40:35.9607 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 17:14:47.9661 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 17:14:48.0268 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 17:14:48.0631 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 17:14:48.0840 Info Configuration initialized.
+2024-03-04 17:14:48.7706 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 18:05:17.5298 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 18:05:17.5947 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 18:05:17.6454 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 18:05:17.6788 Info Configuration initialized.
+2024-03-04 18:05:18.6975 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 18:08:52.6413 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 18:08:52.6812 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 18:08:52.7275 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 18:08:52.7533 Info Configuration initialized.
+2024-03-04 18:08:53.6635 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 18:18:21.6585 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 18:18:21.7077 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 18:18:21.7510 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 18:18:21.7685 Info Configuration initialized.
+2024-03-04 18:18:22.7015 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 18:19:20.9807 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 18:19:21.0385 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 18:19:21.0804 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 18:19:21.1004 Info Configuration initialized.
+2024-03-04 18:19:22.1492 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 18:28:37.8066 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-04 18:28:37.8544 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-04 18:28:37.8937 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-04 18:28:37.9273 Info Configuration initialized.
+2024-03-04 18:28:38.8722 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-05 10:19:32.4782 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-05 10:19:32.7748 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-05 10:19:32.9937 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-05 10:19:33.0596 Info Configuration initialized.
+2024-03-05 10:19:41.0956 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-05 11:01:34.4376 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-05 11:01:34.5027 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-05 11:01:34.5515 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-05 11:01:34.5782 Info Configuration initialized.
+2024-03-05 11:01:36.3979 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-05 11:11:01.3504 Info Registered target NLog.Targets.FileTarget(Name=mios)
+2024-03-05 11:11:01.4327 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-03-05 11:11:01.5325 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config
+2024-03-05 11:11:01.5766 Info Configuration initialized.
+2024-03-05 11:11:03.1633 Info Validating config: TargetNames=mios, ConfigItems=10, FilePath=C:\wamp64\www\AppPublicaciones\AppPublicaciones\bin\Debug\net6.0\NLog.config

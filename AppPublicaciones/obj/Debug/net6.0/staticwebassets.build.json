@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "lUobKUsqykdSbXyTl2aZ/a4rDIV6Fn1nXYHX2tTMAzk=",
+  "Source": "AppPublicaciones",
+  "BasePath": "_content/AppPublicaciones",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AppPublicaciones\\wwwroot",
+      "Source": "AppPublicaciones",
+      "ContentRoot": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\",
+      "BasePath": "_content/AppPublicaciones",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\publicaciones\\3109f282-f0dc-469c-aa8f-a9bb228f3c3b.png",
+      "SourceId": "AppPublicaciones",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\",
+      "BasePath": "_content/AppPublicaciones",
+      "RelativePath": "publicaciones/3109f282-f0dc-469c-aa8f-a9bb228f3c3b.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\publicaciones\\3109f282-f0dc-469c-aa8f-a9bb228f3c3b.png"
+    },
+    {
+      "Identity": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\publicaciones\\3a3eebd5-fe16-4054-9826-383db9ff4f68.png",
+      "SourceId": "AppPublicaciones",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\",
+      "BasePath": "_content/AppPublicaciones",
+      "RelativePath": "publicaciones/3a3eebd5-fe16-4054-9826-383db9ff4f68.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\publicaciones\\3a3eebd5-fe16-4054-9826-383db9ff4f68.png"
+    },
+    {
+      "Identity": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\publicaciones\\744f471c-a954-4753-88a8-1c40a746fd1f.png",
+      "SourceId": "AppPublicaciones",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\",
+      "BasePath": "_content/AppPublicaciones",
+      "RelativePath": "publicaciones/744f471c-a954-4753-88a8-1c40a746fd1f.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\publicaciones\\744f471c-a954-4753-88a8-1c40a746fd1f.png"
+    },
+    {
+      "Identity": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\publicaciones\\a173f8e0-bd9a-450d-b1b5-ea7c8894582c.png",
+      "SourceId": "AppPublicaciones",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\",
+      "BasePath": "_content/AppPublicaciones",
+      "RelativePath": "publicaciones/a173f8e0-bd9a-450d-b1b5-ea7c8894582c.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\publicaciones\\a173f8e0-bd9a-450d-b1b5-ea7c8894582c.png"
+    }
+  ]
+}

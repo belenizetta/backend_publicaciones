@@ -1,0 +1,15 @@
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\bin\Debug\net6.0\BusinessPublicacion.deps.json
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\bin\Debug\net6.0\BusinessPublicacion.dll
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\bin\Debug\net6.0\BusinessPublicacion.pdb
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\obj\Debug\net6.0\BusinessPublicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\obj\Debug\net6.0\BusinessPublicacion.AssemblyInfoInputs.cache
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\obj\Debug\net6.0\BusinessPublicacion.AssemblyInfo.cs
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\obj\Debug\net6.0\BusinessPublicacion.csproj.CoreCompileInputs.cache
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\obj\Debug\net6.0\BusinessPublicacion.dll
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\obj\Debug\net6.0\refint\BusinessPublicacion.dll
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\obj\Debug\net6.0\BusinessPublicacion.pdb
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\obj\Debug\net6.0\ref\BusinessPublicacion.dll
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\obj\Debug\net6.0\BusinessPublicacion.csproj.AssemblyReference.cache
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\bin\Debug\net6.0\DataAccess.dll
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\bin\Debug\net6.0\DataAccess.pdb
+C:\wamp64\www\AppPublicaciones\BusinessPublicacion\obj\Debug\net6.0\BusinessPublicacion.csproj.CopyComplete

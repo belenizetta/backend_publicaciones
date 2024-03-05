@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\publicaciones\\3109f282-f0dc-469c-aa8f-a9bb228f3c3b.png",
+      "PackagePath": "staticwebassets\\publicaciones\\3109f282-f0dc-469c-aa8f-a9bb228f3c3b.png"
+    },
+    {
+      "Id": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\publicaciones\\3a3eebd5-fe16-4054-9826-383db9ff4f68.png",
+      "PackagePath": "staticwebassets\\publicaciones\\3a3eebd5-fe16-4054-9826-383db9ff4f68.png"
+    },
+    {
+      "Id": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\publicaciones\\744f471c-a954-4753-88a8-1c40a746fd1f.png",
+      "PackagePath": "staticwebassets\\publicaciones\\744f471c-a954-4753-88a8-1c40a746fd1f.png"
+    },
+    {
+      "Id": "C:\\wamp64\\www\\AppPublicaciones\\AppPublicaciones\\wwwroot\\publicaciones\\a173f8e0-bd9a-450d-b1b5-ea7c8894582c.png",
+      "PackagePath": "staticwebassets\\publicaciones\\a173f8e0-bd9a-450d-b1b5-ea7c8894582c.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AppPublicaciones.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AppPublicaciones.props",
+      "PackagePath": "build\\AppPublicaciones.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AppPublicaciones.props",
+      "PackagePath": "buildMultiTargeting\\AppPublicaciones.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AppPublicaciones.props",
+      "PackagePath": "buildTransitive\\AppPublicaciones.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
